@@ -1,0 +1,18 @@
+html,body, .fons{
+    height: 100%;
+}
+.fons{
+    background: url(../img/fons.jpg) center center no-repeat;
+    background-size: cover;
+    padding:0 20%;
+}
+.cfons{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 39%;
+}
+cfons h1{
+    font-size: 4em;
+    letter-spacing: -3px;
+}
